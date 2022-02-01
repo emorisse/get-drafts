@@ -9,6 +9,6 @@ Scripts are numbered in the order they should be included in the action.
 3. 01-configuration.js also includes a regex used to highlight external attendees 
 
 ## Todoist:
-1. It relies on Todoist tags for people with the tag of email with the "@" replaced by "_". Eg. Items tagged for bob@alice.com are tagged as bob_alice.com.
+1. It relies on Todoist tags for people with the tag of email with the "@" replaced by "_". Eg. Items tagged for bob@example.com are tagged as bob_example.com.
 2. Creates a list at the bottom with outstanding items for people who have them, eg there are any items for that email tag.
 
